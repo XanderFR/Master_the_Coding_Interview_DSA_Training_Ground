@@ -1,0 +1,2 @@
+# Master_the_Coding_Interview_DSA_Training_Ground
+A collection of Python programs made while refollowing Zero To Mastery's online course, Master the Coding Interview: Data Structures + Algorithms. The data structures in this project include: Arrays, Hash Tables, Linked Lists, Stacks, Queues, Trees, and Graphs. The algorithms in this project include: Recursion, Sorting, Searching, Breadth First Search, Depth First Search, and Dynamic Programming. Most of the programs are filled with comments on how I think they work.
